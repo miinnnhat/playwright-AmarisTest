@@ -1,4 +1,4 @@
-{   
+[{  
     "scenario": " TC_01: Verify that user can see price of hotel",
     "hotelName": " Muong Thanh Sai Gon Centre Hotel",
     "checkInDate": 3,
@@ -7,3 +7,5 @@
     "adults": 2,
     "children": 0
 }
+
+]
